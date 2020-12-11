@@ -20,9 +20,9 @@ const apiResponse = [
     {
         "id": 4,
         "name": "Droolius Caesar",
-        "img": "https://minepuppy.com/wp-content/uploads/2018/02/Doberman-breed-brown-minepuppy.jpg",
+        "img": "https://www.rd.com/wp-content/uploads/2019/01/shutterstock_673465372.jpg",
         "breed": "Doberman"
     }
 ]
 
-export { apiResponse }
+export default apiResponse
